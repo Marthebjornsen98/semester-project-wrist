@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_color_colors",
+  "info": {
+    "name": "Color",
+    "icon": "circle",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "First_color": {
+      "type": "string"
+    },
+    "Second_color": {
+      "type": "string"
+    }
+  }
+}

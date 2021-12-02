@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_size_sizes",
+  "info": {
+    "name": "Size",
+    "icon": "th-large"
+  },
+  "options": {},
+  "attributes": {
+    "First_size": {
+      "type": "string"
+    },
+    "Second_size": {
+      "type": "string"
+    }
+  }
+}
