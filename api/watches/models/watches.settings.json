@@ -40,7 +40,7 @@
       "repeatable": false,
       "component": "color.color"
     },
-    "Big_product_img": {
+    "Second_product_img": {
       "type": "string"
     },
     "Size": {
