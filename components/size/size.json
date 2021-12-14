@@ -2,15 +2,18 @@
   "collectionName": "components_size_sizes",
   "info": {
     "name": "Size",
-    "icon": "th-large"
+    "icon": "th-large",
+    "description": ""
   },
   "options": {},
   "attributes": {
     "First_size": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "Second_size": {
-      "type": "string"
+      "type": "string",
+      "required": true
     }
   }
 }

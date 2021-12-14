@@ -8,10 +8,12 @@
   "options": {},
   "attributes": {
     "First_color": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "Second_color": {
-      "type": "string"
+      "type": "string",
+      "required": true
     }
   }
 }

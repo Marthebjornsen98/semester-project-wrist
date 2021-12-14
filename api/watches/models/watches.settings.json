@@ -33,23 +33,28 @@
       "required": true
     },
     "Model": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "Color": {
       "type": "component",
       "repeatable": false,
-      "component": "color.color"
+      "component": "color.color",
+      "required": true
     },
     "Second_product_img": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "Size": {
       "type": "component",
       "repeatable": false,
-      "component": "size.size"
+      "component": "size.size",
+      "required": true
     },
     "Alt": {
-      "type": "string"
+      "type": "string",
+      "required": true
     }
   }
 }
