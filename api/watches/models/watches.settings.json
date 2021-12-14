@@ -47,6 +47,9 @@
       "type": "component",
       "repeatable": false,
       "component": "size.size"
+    },
+    "Alt": {
+      "type": "string"
     }
   }
 }
