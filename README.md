@@ -16,7 +16,8 @@ This project was my semester exam for autumn 2021, I made an ecommerce website s
 ### Starting up
 
 Clone the repo:
-- git clone: [git@github.com:NoroffFEU/portfolio-1-example.git](https://github.com/Marthebjornsen98/semester-project-wrist.git)
+- git clone
+- [git@github.com:NoroffFEU/portfolio-1-example.git](https://github.com/Marthebjornsen98/semester-project-wrist.git)
 
 Run project:
 - Right click index.html in root
